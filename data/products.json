@@ -1,0 +1,98 @@
+[
+  {
+    "id": "5add93b9-7549-47c4-b412-8f2d3e7bac27",
+    "name": "iphone 17",
+    "price": "600",
+    "quantity": "56"
+  },
+  {
+    "id": "b1a0a5d0-bf41-476d-afde-13c843c51e74",
+    "name": "samsung a56",
+    "price": 350,
+    "quantity": "498"
+  },
+  {
+    "id": "ef9d97f0-916e-41c5-a8f1-4e3032663a07",
+    "name": "samsung a36",
+    "price": 250,
+    "quantity": 50
+  },
+  {
+    "id": "0bd5a2cc-6bbf-489a-8d10-656fb9c515f8",
+    "name": "samsung s25 ultra",
+    "price": 1250,
+    "quantity": 10
+  },
+  {
+    "id": "54ab6c11-bb9b-4fb5-8878-4cdc21b7dec0",
+    "name": "samsung s24 ultra",
+    "price": 1050,
+    "quantity": 10
+  },
+  {
+    "id": "5be965b4-24b2-440f-b804-1cd249686af3",
+    "name": "iphone 17 pro max",
+    "price": 1300,
+    "quantity": 20
+  },
+  {
+    "id": "f90ffbbd-f86d-467a-b5c7-8ffc8a767def",
+    "name": "iphone 16 pro max",
+    "price": 1000,
+    "quantity": 20
+  },
+  {
+    "id": "6bf0f483-2adf-4b28-9e55-1fdc730c64a0",
+    "name": "iphone 17 air",
+    "price": 800,
+    "quantity": 20
+  },
+  {
+    "id": "2f8f2f0d-8305-4d88-93b7-eb38f273ff0b",
+    "name": "nothing phone 1",
+    "price": "200",
+    "quantity": "10"
+  },
+  {
+    "id": "f4bf9840-ec76-4a6a-b374-3c2392a66863",
+    "name": "nothing phone 2pro",
+    "price": "600",
+    "quantity": "5"
+  },
+  {
+    "id": "9964e642-289c-4a58-8e33-fc2ca3528110",
+    "name": "nothing phone 3 a",
+    "price": "500",
+    "quantity": "10"
+  },
+  {
+    "id": "9b8a489f-75b1-4060-9139-546671ad6acb",
+    "name": "xiaomi note 13",
+    "price": "300",
+    "quantity": "20"
+  },
+  {
+    "id": "44dc8b3c-6f7c-4a5f-a0de-acf722ef2ab9",
+    "name": "xiaomi note 14 pro",
+    "price": "400",
+    "quantity": "10"
+  },
+  {
+    "id": "d24c2a12-c6b7-425a-aa00-722aeb675dc1",
+    "name": "xiaomi redmi note 15",
+    "price": "450",
+    "quantity": "15"
+  },
+  {
+    "id": "89f1429d-4f70-448a-ba40-e8125fa03777",
+    "name": "Nokia ",
+    "price": "100",
+    "quantity": "5"
+  },
+  {
+    "id": "970a925b-fbdb-465a-876f-f49a5bdc1ad7",
+    "name": "xiaomi c71",
+    "price": "550",
+    "quantity": "20"
+  }
+]
